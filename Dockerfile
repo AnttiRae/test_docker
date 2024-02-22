@@ -1,4 +1,4 @@
-FROM andersinnovations/python:3.11-slim AS app-base
+FROM python:3.11
 
 WORKDIR /app
 
